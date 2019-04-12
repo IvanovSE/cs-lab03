@@ -1,0 +1,1 @@
+lab03-histogram.exe < in.txt > result.svg 2>NUL

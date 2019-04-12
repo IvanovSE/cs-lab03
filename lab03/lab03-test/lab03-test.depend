@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554111080 source:c:\users\iappl\onedrive\Документы\прога 2 сем\laba03\lab03\histogram.cpp
+	"histogram.h"
+
+1554111080 c:\users\iappl\onedrive\Документы\прога 2 сем\laba03\lab03\histogram.h
+	<vector>
+
+1555093544 source:c:\users\iappl\onedrive\Документы\прога 2 сем\laba03\lab03\lab03-test\main.cpp
+	<iostream>
+	"histogram.h"
+	<cassert>
+
+1554111080 c:\users\iappl\onedrive\Документы\прога 2 сем\laba03\lab03\lab03-test\histogram.h
+	<vector>
+
